@@ -1,0 +1,144 @@
+.h-70vh{
+    min-height: 80vh;
+}
+.left-portion span {
+    font-size: 72px;
+    background: -webkit-linear-gradient( top , rgb(146, 252, 175) 61%, rgb(3, 199, 81) 91%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.h-50vh{
+    height: 70vh;
+}
+.h-80vh{
+    height: 80vh;
+}
+input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+
+.card1{
+    height: 40vh!important;
+    transition: .3s linear;
+}
+.card1:hover {
+    transition: .3s linear !important;
+    height: 44vh!important;  
+    margin-bottom: 10px; 
+}
+.card1 .cardbtn{
+   opacity: 0;
+   transition: .2s linear;
+}
+
+.card1:hover .cardbtn{
+   transition: .2s linear;
+   opacity: 1;
+}
+
+
+
+
+.card2{
+    height: 40vh!important;
+    transition: .3s linear;
+}
+.card2:hover {
+    transition: .3s linear !important;
+    height: 44vh!important;
+    margin-bottom: 10px;    
+}
+.card2 .cardbtn{
+   opacity: 0;
+   transition: .2s linear;
+
+}
+
+.card2:hover .cardbtn{
+   transition: .2s linear;
+   opacity: 1;
+}
+
+
+
+.card3{
+    height: 40vh!important;
+    transition: .3s linear;
+}
+.card3:hover {
+    transition: .3s linear !important;
+    height: 44vh!important;  
+    margin-bottom: 10px;  
+}
+.card3 .cardbtn{
+   opacity: 0;
+   transition: .2s linear;
+}
+
+.card3:hover .cardbtn{
+   transition: .2s linear;
+   opacity: 1;
+}
+
+.card4{
+    height: 40vh!important;
+    transition: .3s linear;
+}
+.card4:hover {
+    transition: .3s linear !important;
+    height: 44vh!important;   
+    margin-bottom: 10px; 
+}
+.card4 .cardbtn{
+   opacity: 0;
+   transition: .2s linear;
+}
+
+.card4:hover .cardbtn{
+   transition: .2s linear;
+   opacity: 1;
+}
+
+.card5{
+    height: 40vh!important;
+    transition: .3s linear;
+}
+.card5:hover {
+    transition: .3s linear !important;
+    height: 44vh!important;  
+    margin-bottom: 10px;  
+}
+.card5 .cardbtn{
+   opacity: 0;
+   transition: .2s linear;
+}
+
+.card5:hover .cardbtn{
+   transition: .2s linear;
+   opacity: 1;
+}
+
+.card6{
+    height: 40vh!important;
+    transition: .3s linear;
+}
+.card6:hover {
+    transition: .3s linear !important;
+    height: 44vh!important; 
+    margin-bottom: 10px;   
+}
+.card6 .cardbtn{
+   opacity: 0;
+   transition: .2s linear;
+}
+
+.card6:hover .cardbtn{
+   transition: .2s linear;
+   opacity: 1;
+}

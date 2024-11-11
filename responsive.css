@@ -1,0 +1,32 @@
+@media only screen and (max-width:620px){
+
+    .left-portion02 span{
+
+        font-size: 45px !important;
+    }
+
+
+
+    .brand-card img{
+        width: 50% !important;
+
+
+    }
+    .brand-card img:nth-child(5){
+        display: none;
+    }
+    .brand-card img:nth-child(6){
+        display: none;
+    }
+
+    .left-portion{
+        padding-top: 400px !important;
+    }
+.left-portion span{
+    font-size: 45px !important;
+    
+}
+   
+}
+
+
